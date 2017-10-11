@@ -1,2 +1,2 @@
 # snp32
-snp-32 Odessa
+snp-32 Joshua
