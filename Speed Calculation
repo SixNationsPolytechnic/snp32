@@ -1,0 +1,6 @@
+// Home work! Calulate the speed in Km/H of the ISS
+// based on the distance 
+//msg.distance = IIS traveld in 10 Sec
+
+msg.payload = msg.distance * 6 *60;
+return msg;
